@@ -1,0 +1,11 @@
+{
+    "epoch": 0.98,
+    "valid_accuracy": 0.442375,
+    "valid_f1": 0.306889575495307,
+    "valid_loss": 2.4860312938690186,
+    "valid_precision": 0.47118029507376846,
+    "valid_recall": 0.49997079964445246,
+    "valid_runtime": 25.6608,
+    "valid_samples_per_second": 311.76,
+    "valid_steps_per_second": 1.247
+}

@@ -1,0 +1,13 @@
+transformers
+datasets
+spacy
+scipy
+textdistance[extras]
+scikit-learn
+ipywidgets
+tqdm
+rouge
+nltk
+spacy-transformers
+sentencepiece
+sacrebleu==1.*
