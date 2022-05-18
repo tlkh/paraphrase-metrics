@@ -17,7 +17,7 @@ A python package containing implementations of word position deviation (WPD) and
 
 To effectively characterize the nature of paraphrase pairs without expert human annotation, we proposes two new metrics: word position deviation (WPD) and lexical deviation (LD). WPD measures the degree of structural alteration, while LD measures the difference in vocabulary used. We apply these metrics to better understand the commonly-used MRPC dataset and study how it differs from PAWS, another paraphrase identification dataset. We also perform a detailed study on MRPC and propose improvements to the dataset, showing that it improves generalizability of models trained on the dataset. Lastly, we apply our metrics to filter the output of a paraphrase generation model and show how it can be used to generate specific forms of paraphrases for data augmentation or robustness testing of NLP models. 
 
-The paper can be found [here](https://openreview.net/pdf?id=t2UJIFZVyz4) (temporary link pending the ACL one).
+The paper can be found [here](https://aclanthology.org/2022.acl-long.588/).
 
 ### Code
 
