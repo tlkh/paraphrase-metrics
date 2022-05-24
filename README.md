@@ -19,6 +19,10 @@ To effectively characterize the nature of paraphrase pairs without expert human 
 
 The paper can be found [here](https://aclanthology.org/2022.acl-long.588/).
 
+### Talk
+
+YouTube link: https://www.youtube.com/watch?v=rJlz96ICDEg&ab_channel=TimothyLiu
+
 ### Code
 
 The full code associated with the ACL 2022 paper "Towards Better Characterization of Paraphrases" can be found in the `./paper/` folder. 
@@ -26,3 +30,20 @@ The full code associated with the ACL 2022 paper "Towards Better Characterizatio
 ### Demo
 
 Streamlit app showing MRPC/MRPC-R1 dataset filtering can be found at: [tlkh/paraphrase-metrics-mrpc](https://huggingface.co/spaces/tlkh/paraphrase-metrics-mrpc)
+
+### Citing
+
+```
+@inproceedings{liu-soh-2022-towards,
+    title = "Towards Better Characterization of Paraphrases",
+    author = "Liu, Timothy  and
+      Soh, De Wen",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.588",
+    pages = "8592--8601",
+}
+```
